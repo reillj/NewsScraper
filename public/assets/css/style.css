@@ -1,0 +1,40 @@
+html {
+	font-size: 12px;
+}
+
+li { 
+    
+}
+
+p {
+	font-size: 16px;
+}
+
+#bodyinput {
+    width: 50%;
+}
+
+.jumbotron {
+	
+}
+
+.panel-heading.row {
+	width: 100%;
+    margin-left: 0%;
+}
+
+.panel-primary {
+    height: ;
+}
+
+#savenote {
+    display: block;
+}
+
+/* 
+  These rules take effect when the browser's width
+  is 640px or less.
+*/
+@media screen and (max-width: 640px) {
+	
+}
